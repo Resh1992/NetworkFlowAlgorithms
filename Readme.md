@@ -14,7 +14,7 @@ Run: After compiling run command 'javac tcss543 &lt;input file path&gt;'.
 Clean: Run command 'make clean' in src folder.
 
 
-** Important information:** If Stack overflow error comes for big graphs then pass -Xss2m as argument for java stack size i.e. run 'javac -Xss2m tcss543 <input file path>' command.
+** Important information:** If Stack overflow error comes for big graphs then pass -Xss2m as argument for java stack size i.e. run 'javac -Xss2m tcss543 &lt;input file path&gt;' command.
 
 ## Demo
 
