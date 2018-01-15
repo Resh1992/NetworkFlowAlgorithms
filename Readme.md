@@ -1,4 +1,4 @@
-
+ 
 ## Network Flow Algorithm
 
 Implemented Ford-Fulkerson, Scaling Ford-Fulkerson, and Preflow-push algorithms in Java to find maximum flow in a network.
@@ -9,7 +9,7 @@ Varied multiple parameters affecting graph generation and studied its effect on 
 
 Compile: Run command make in src folder.
 
-Run: after compiling 'javac tcss543 &lt;input file path&gt;'
+Run: After compiling 'javac tcss543 &lt;input file path&gt;'
 
 Clean: Run command make clean in src folder.
 
@@ -18,4 +18,4 @@ Clean: Run command make clean in src folder.
 
 ## Demo
 
-You could see a demo [here] (https://www.youtube.com/watch?v=L_5IAb-drw4)
+You could see a demo [here](https://www.youtube.com/watch?v=L_5IAb-drw4)
