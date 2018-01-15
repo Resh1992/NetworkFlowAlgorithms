@@ -1,0 +1,320 @@
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh1-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh1-cc.txt
+ScallingFordFulkerson Max flow: 30000.0 in 4146 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh10-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh10-cc.txt
+ScallingFordFulkerson Max flow: 120000.0 in 4103 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh2-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh2-cc.txt
+ScallingFordFulkerson Max flow: 40000.0 in 4427 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh3-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh3-cc.txt
+ScallingFordFulkerson Max flow: 50000.0 in 4388 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh4-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh4-cc.txt
+ScallingFordFulkerson Max flow: 60000.0 in 3942 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh5-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh5-cc.txt
+ScallingFordFulkerson Max flow: 70000.0 in 4295 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh6-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh6-cc.txt
+ScallingFordFulkerson Max flow: 80000.0 in 4144 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh7-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh7-cc.txt
+ScallingFordFulkerson Max flow: 90000.0 in 4275 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh8-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh8-cc.txt
+ScallingFordFulkerson Max flow: 100000.0 in 4726 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh9-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-200-Col-200-CC-True\Cap-Mesh9-cc.txt
+ScallingFordFulkerson Max flow: 110000.0 in 4267 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-100.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-100.txt
+ScallingFordFulkerson Max flow: 84008.0 in 5153 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-110.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-110.txt
+ScallingFordFulkerson Max flow: 84134.0 in 5218 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-120.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-120.txt
+ScallingFordFulkerson Max flow: 84207.0 in 5306 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-130.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-130.txt
+ScallingFordFulkerson Max flow: 84519.0 in 5946 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-140.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-140.txt
+ScallingFordFulkerson Max flow: 84628.0 in 5383 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-50.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-50.txt
+ScallingFordFulkerson Max flow: 83292.0 in 5806 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-60.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-60.txt
+ScallingFordFulkerson Max flow: 83426.0 in 4891 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-70.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-70.txt
+ScallingFordFulkerson Max flow: 83614.0 in 4933 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-80.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-80.txt
+ScallingFordFulkerson Max flow: 83731.0 in 4715 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-90.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCap-Row-50-Col-50-CC-False\Cap-90.txt
+ScallingFordFulkerson Max flow: 83901.0 in 5112 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh1.txt for input.
+Successfully loaded 15000 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh1.txt
+ScallingFordFulkerson Max flow: 59462.0 in 6553 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh10.txt for input.
+Successfully loaded 68640 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh10.txt
+ScallingFordFulkerson Max flow: 59376.0 in 5118 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh2.txt for input.
+Successfully loaded 20960 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh2.txt
+ScallingFordFulkerson Max flow: 59778.0 in 4678 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh3.txt for input.
+Successfully loaded 26920 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh3.txt
+ScallingFordFulkerson Max flow: 59682.0 in 4774 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh4.txt for input.
+Successfully loaded 32880 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh4.txt
+ScallingFordFulkerson Max flow: 59729.0 in 4649 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh5.txt for input.
+Successfully loaded 38840 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh5.txt
+ScallingFordFulkerson Max flow: 59866.0 in 4838 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh6.txt for input.
+Successfully loaded 44800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh6.txt
+ScallingFordFulkerson Max flow: 59795.0 in 4936 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh7.txt for input.
+Successfully loaded 50760 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh7.txt
+ScallingFordFulkerson Max flow: 59619.0 in 5056 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh8.txt for input.
+Successfully loaded 56720 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh8.txt
+ScallingFordFulkerson Max flow: 59796.0 in 4545 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh9.txt for input.
+Successfully loaded 62680 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-False\Mesh9.txt
+ScallingFordFulkerson Max flow: 59443.0 in 4522 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh1-cc.txt for input.
+Successfully loaded 59700 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh1-cc.txt
+ScallingFordFulkerson Max flow: 70000.0 in 5117 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh10-cc.txt for input.
+Successfully loaded 167880 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh10-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 22159 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh2-cc.txt for input.
+Successfully loaded 71720 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh2-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 20762 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh3-cc.txt for input.
+Successfully loaded 83740 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh3-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 20027 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh4-cc.txt for input.
+Successfully loaded 95760 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh4-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 20052 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh5-cc.txt for input.
+Successfully loaded 107780 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh5-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 19209 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh6-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh6-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 20872 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh7-cc.txt for input.
+Successfully loaded 131820 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh7-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 23148 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh8-cc.txt for input.
+Successfully loaded 143840 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh8-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 22271 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh9-cc.txt for input.
+Successfully loaded 155860 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryCol-Row-100-Cap-150-CC-True\Col-Mesh9-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 23172 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh1.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh1.txt
+ScallingFordFulkerson Max flow: 35190.0 in 20813 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh10.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh10.txt
+ScallingFordFulkerson Max flow: 36679.0 in 20787 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh2.txt for input.
+Successfully loaded 50970 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh2.txt
+ScallingFordFulkerson Max flow: 24563.0 in 18980 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh3.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh3.txt
+ScallingFordFulkerson Max flow: 23269.0 in 18109 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh4.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh4.txt
+ScallingFordFulkerson Max flow: 23449.0 in 18076 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh5.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh5.txt
+ScallingFordFulkerson Max flow: 23619.0 in 17593 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh6.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh6.txt
+ScallingFordFulkerson Max flow: 23705.0 in 17454 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh7.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh7.txt
+ScallingFordFulkerson Max flow: 23813.0 in 17157 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh8.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh8.txt
+ScallingFordFulkerson Max flow: 24089.0 in 19087 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh9.txt for input.
+Successfully loaded 7450 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-False\Row-Mesh9.txt
+ScallingFordFulkerson Max flow: 24277.0 in 19229 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh1-cc.txt for input.
+Successfully loaded 60000 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh1-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 15353 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh10-cc.txt for input.
+Successfully loaded 167640 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh10-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 16905 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh2-cc.txt for input.
+Successfully loaded 71960 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh2-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 16114 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh3-cc.txt for input.
+Successfully loaded 83920 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh3-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 14762 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh4-cc.txt for input.
+Successfully loaded 95880 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh4-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 14767 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh5-cc.txt for input.
+Successfully loaded 107840 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh5-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 14856 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh6-cc.txt for input.
+Successfully loaded 119800 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh6-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 16976 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh7-cc.txt for input.
+Successfully loaded 131760 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh7-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 15793 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh8-cc.txt for input.
+Successfully loaded 143720 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh8-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 16045 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh9-cc.txt for input.
+Successfully loaded 155680 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-150-CC-True\Row-Mesh9-cc.txt
+ScallingFordFulkerson Max flow: 42000.0 in 15913 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-110.txt for input.
+Successfully loaded 32910 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-110.txt
+ScallingFordFulkerson Max flow: 27287.0 in 7983 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-130.txt for input.
+Successfully loaded 38930 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-130.txt
+ScallingFordFulkerson Max flow: 24738.0 in 8970 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-150.txt for input.
+Successfully loaded 44950 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-150.txt
+ScallingFordFulkerson Max flow: 21973.0 in 10516 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-170.txt for input.
+Successfully loaded 50970 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-170.txt
+ScallingFordFulkerson Max flow: 19183.0 in 11190 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-190.txt for input.
+Successfully loaded 56990 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-190.txt
+ScallingFordFulkerson Max flow: 16613.0 in 14487 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-210.txt for input.
+Successfully loaded 63010 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-210.txt
+ScallingFordFulkerson Max flow: 13884.0 in 12468 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-230.txt for input.
+Successfully loaded 69030 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-230.txt
+ScallingFordFulkerson Max flow: 11155.0 in 12647 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-50.txt for input.
+Successfully loaded 14850 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-50.txt
+ScallingFordFulkerson Max flow: 11162.0 in 12139 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-70.txt for input.
+Successfully loaded 20870 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-70.txt
+ScallingFordFulkerson Max flow: 11172.0 in 12719 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-90.txt for input.
+Successfully loaded 26890 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-50-CC-False\Row-90.txt
+ScallingFordFulkerson Max flow: 11174.0 in 12400 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh10.txt for input.
+Successfully loaded 66020 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh10.txt
+ScallingFordFulkerson Max flow: 42701.0 in 22064 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh2.txt for input.
+Successfully loaded 20870 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh2.txt
+ScallingFordFulkerson Max flow: 42612.0 in 23794 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh3.txt for input.
+Successfully loaded 26890 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh3.txt
+ScallingFordFulkerson Max flow: 43505.0 in 22177 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh4.txt for input.
+Successfully loaded 32910 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh4.txt
+ScallingFordFulkerson Max flow: 43125.0 in 21514 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh5.txt for input.
+Successfully loaded 38930 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh5.txt
+ScallingFordFulkerson Max flow: 42432.0 in 23032 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh6.txt for input.
+Successfully loaded 44950 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh6.txt
+ScallingFordFulkerson Max flow: 44183.0 in 21764 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh7.txt for input.
+Successfully loaded 50970 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh7.txt
+ScallingFordFulkerson Max flow: 42064.0 in 22982 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh8.txt for input.
+Successfully loaded 56990 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh8.txt
+ScallingFordFulkerson Max flow: 42513.0 in 20893 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh9.txt for input.
+Successfully loaded 63010 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Cap-Mesh9.txt
+ScallingFordFulkerson Max flow: 42955.0 in 20887 ms
+Opened C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Rows-50.txt for input.
+Successfully loaded 14850 lines. 
+C:\Users\reshu\eclipse-workspace\AlgoProj\MeshGraphs\Input Files\VaryRow-Col-100-Cap-500-CC-False\Rows-50.txt
+ScallingFordFulkerson Max flow: 43148.0 in 21994 ms
